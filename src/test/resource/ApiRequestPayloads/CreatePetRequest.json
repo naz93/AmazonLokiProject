@@ -1,0 +1,18 @@
+{
+    "id": 9876,
+    "category": {
+        "id": 23,
+        "name": "Bird"
+    },
+    "name": "Parakeet",
+    "photoUrls": [
+        "https://petstore.photo"
+    ],
+    "tags": [
+        {
+            "id": 1212,
+            "name": "Office"
+        }
+    ],
+    "status": "available"
+}
